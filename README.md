@@ -57,8 +57,8 @@
 | Aplicação | Descrição | Link de Acesso |
 | :--- | :--- | :--- |
 | 🐍 **Python / Streamlit** | Dashboard analítico com processamento de dados, KPIs e insights gerados via IA. | [Acessar Aplicação](https://meu-projeto-marketing-ai-analytics.streamlit.app/) • [Ver Código no GitHub](https://github.com/Rozvania27/meu_projeto_marketing/blob/main/app.py) |
-| 🌐 **HTML / Front-End** | Interface web responsiva para visualização de indicadores e gráficos interativos. | [Acessar Interface Web](https://Rozvania27.github.io/meu_projeto_marketing/versao_html/) • [Ver Código no GitHub](https://github.com/Rozvania27/meu_projeto_marketing/tree/main/versao_html) |
-| 📁 **Repositório Principal** | Código-fonte completo do projeto, arquivos de dados e documentação técnica. | [Acessar Repositório](https://github.com/Rozvania27/meu_projeto_marketing) |[Acessar Interface Web](https://Rozvania27.github.io/meu_projeto_marketing/versao_html/) |
+| 🌐 **HTML / Front-End** | Interface web responsiva para visualização de indicadores e gráficos interativos. | [Acessar Interface Web](https://Rozvania27.github.io/meu_projeto_marketing/versao_html/) • [Ver Código no GitHub](https://github.com/Rozvania27/meu_projeto_marketing/tree/main/html_versao) |
+| 📁 **Repositório Principal** | Código-fonte completo do projeto, arquivos de dados e documentação técnica. | [Acessar Repositório](https://github.com/Rozvania27/meu_projeto_marketing) |[Acessar Interface Web](https://Rozvania27.github.io/meu_projeto_marketing/html_versao/) |
 
 
 > 🚧 Links de demonstração serão disponibilizados em breve.
@@ -210,13 +210,6 @@ Os cálculos devem respeitar as definições da base de dados e as regras de neg
 
 ### Data Analytics & IA
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
-</p>
-
 | Tecnologia | Finalidade |
 | :--- | :--- |
 | **Python** | Análise e processamento de dados. |
@@ -225,13 +218,6 @@ Os cálculos devem respeitar as definições da base de dados e as regras de neg
 | **Streamlit** | Desenvolvimento do dashboard analítico. |
 
 ### Front-End
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js">
-</p>
 
 | Tecnologia | Finalidade |
 | :--- | :--- |
@@ -393,28 +379,14 @@ Este projeto permitiu aplicar conhecimentos em:
 - Desenvolvimento Front-End.
 - Documentação e organização de projetos no GitHub.
 
----
-
-## 🔮 Próximos Passos
-
-- [ ] Adicionar filtros por campanha e período.
-- [ ] Expandir os indicadores de Marketing Analytics.
-- [ ] Implementar análises comparativas entre campanhas.
-- [ ] Evoluir a geração de insights com IA.
-- [ ] Integrar novas fontes de dados.
-- [ ] Explorar integração com plataformas de Marketing Cloud.
-- [ ] Adicionar análises de segmentação e jornadas.
-- [ ] Evoluir o projeto para uma solução de Business Intelligence.
-
----
 
 ## 👩‍💻 Autora
 
-### Rozvania Alcantara
+### Rozvania Alcantara da Silva
 
 **Estudante de Ciência de Dados | Data Analytics | IA Generativa | Cloud Computing | MarTech**
 
-Profissional em transição de carreira para Tecnologia da Informação, com experiência em relacionamento com clientes no setor bancário e formação em Ciência de Dados.
+Profissional em transição de carreira para Tecnologia da Informação, com experiência em relacionamento com clientes no setor bancário e formação em Tecnologia em Marketing.
 
 Interesse em desenvolver soluções que conectem dados, Inteligência Artificial e tecnologia para gerar valor ao negócio.
 
