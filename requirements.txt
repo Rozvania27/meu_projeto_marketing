@@ -1,0 +1,6 @@
+# Ferraments necessárias para o projeto
+
+streamlit
+pandas
+numpy
+google-genai

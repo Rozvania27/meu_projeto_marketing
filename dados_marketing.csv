@@ -1,0 +1,501 @@
+id_envio,segmento_cliente,assunto_email,abriu,clicou,converteu
+ENV0001,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0002,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0003,Inativos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0004,Inativos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0005,VIP,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0006,VIP,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0007,VIP,Confira as novidades da semana! 🚀,1,0,0
+ENV0008,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0009,Inativos,Confira as novidades da semana! 🚀,1,0,0
+ENV0010,Inativos,Confira as novidades da semana! 🚀,1,0,0
+ENV0011,VIP,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0012,Recorrentes,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0013,Recorrentes,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0014,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0015,VIP,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0016,VIP,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0017,Novos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0018,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0019,Novos,Confira as novidades da semana! 🚀,0,0,0
+ENV0020,Novos,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0021,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0022,VIP,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0023,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0024,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0025,Novos,Confira as novidades da semana! 🚀,1,0,0
+ENV0026,Recorrentes,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0027,VIP,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0028,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0029,Inativos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0030,VIP,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0031,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0032,VIP,Confira as novidades da semana! 🚀,1,1,0
+ENV0033,VIP,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0034,Recorrentes,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0035,Recorrentes,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0036,Recorrentes,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0037,Novos,Confira as novidades da semana! 🚀,1,1,1
+ENV0038,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,1
+ENV0039,Inativos,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0040,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0041,VIP,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0042,Novos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0043,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0044,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0045,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0046,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0047,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0048,Inativos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0049,Inativos,Oferta Exclusiva de Primavera 🌸,1,1,1
+ENV0050,VIP,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0051,Recorrentes,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0052,Recorrentes,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0053,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0054,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0055,Inativos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0056,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0057,VIP,Confira as novidades da semana! 🚀,1,0,0
+ENV0058,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0059,VIP,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0060,Novos,Confira as novidades da semana! 🚀,0,0,0
+ENV0061,Novos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0062,Novos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0063,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0064,Novos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0065,Novos,Bem-vindo à nossa loja! 👋,1,1,1
+ENV0066,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0067,VIP,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0068,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0069,VIP,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0070,Recorrentes,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0071,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0072,VIP,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0073,VIP,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0074,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0075,Inativos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0076,Inativos,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0077,Recorrentes,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0078,VIP,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0079,Novos,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0080,VIP,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0081,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0082,Inativos,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0083,Novos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0084,VIP,Confira as novidades da semana! 🚀,0,0,0
+ENV0085,Novos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0086,Novos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0087,Inativos,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0088,Inativos,Confira as novidades da semana! 🚀,0,0,0
+ENV0089,Recorrentes,Confira as novidades da semana! 🚀,1,1,0
+ENV0090,Novos,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0091,VIP,Confira as novidades da semana! 🚀,0,0,0
+ENV0092,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,1
+ENV0093,Recorrentes,Confira as novidades da semana! 🚀,0,0,0
+ENV0094,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0095,Recorrentes,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0096,Novos,Bem-vindo à nossa loja! 👋,1,1,1
+ENV0097,Inativos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0098,Novos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0099,VIP,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0100,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0101,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0102,Inativos,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0103,Novos,Confira as novidades da semana! 🚀,0,0,0
+ENV0104,Inativos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0105,Recorrentes,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0106,Novos,Confira as novidades da semana! 🚀,0,0,0
+ENV0107,Novos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0108,Recorrentes,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0109,Novos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0110,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0111,Novos,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0112,VIP,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0113,Recorrentes,Confira as novidades da semana! 🚀,1,0,0
+ENV0114,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0115,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0116,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0117,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0118,VIP,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0119,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0120,Inativos,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0121,Recorrentes,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0122,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0123,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0124,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0125,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0126,Novos,Confira as novidades da semana! 🚀,0,0,0
+ENV0127,Recorrentes,Confira as novidades da semana! 🚀,1,1,0
+ENV0128,Recorrentes,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0129,VIP,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0130,Inativos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0131,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0132,Novos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0133,VIP,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0134,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0135,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0136,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0137,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0138,Inativos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0139,Novos,Confira as novidades da semana! 🚀,0,0,0
+ENV0140,Recorrentes,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0141,Recorrentes,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0142,Novos,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0143,Novos,Confira as novidades da semana! 🚀,1,1,1
+ENV0144,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0145,Novos,Confira as novidades da semana! 🚀,1,1,0
+ENV0146,VIP,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0147,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0148,Inativos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0149,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0150,Novos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0151,Recorrentes,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0152,Novos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0153,VIP,Confira as novidades da semana! 🚀,0,0,0
+ENV0154,Novos,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0155,Recorrentes,Confira as novidades da semana! 🚀,1,0,0
+ENV0156,Novos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0157,Inativos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0158,Recorrentes,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0159,Novos,Confira as novidades da semana! 🚀,0,0,0
+ENV0160,Inativos,Confira as novidades da semana! 🚀,0,0,0
+ENV0161,Novos,Confira as novidades da semana! 🚀,1,0,0
+ENV0162,Inativos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0163,Inativos,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0164,Inativos,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0165,VIP,Oferta Exclusiva de Primavera 🌸,1,1,1
+ENV0166,Recorrentes,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0167,Novos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0168,VIP,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0169,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0170,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0171,Inativos,Confira as novidades da semana! 🚀,1,1,0
+ENV0172,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0173,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,1
+ENV0174,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0175,Inativos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0176,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0177,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0178,Novos,Confira as novidades da semana! 🚀,1,1,0
+ENV0179,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0180,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0181,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0182,VIP,Confira as novidades da semana! 🚀,1,1,0
+ENV0183,Recorrentes,Confira as novidades da semana! 🚀,1,1,1
+ENV0184,Recorrentes,Confira as novidades da semana! 🚀,1,0,0
+ENV0185,Novos,Confira as novidades da semana! 🚀,0,0,0
+ENV0186,Inativos,Confira as novidades da semana! 🚀,0,0,0
+ENV0187,Recorrentes,Confira as novidades da semana! 🚀,0,0,0
+ENV0188,Inativos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0189,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0190,Novos,Confira as novidades da semana! 🚀,1,0,0
+ENV0191,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0192,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0193,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0194,Inativos,Confira as novidades da semana! 🚀,1,1,0
+ENV0195,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0196,Novos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0197,Inativos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0198,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0199,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0200,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0201,Inativos,Oferta Exclusiva de Primavera 🌸,1,1,1
+ENV0202,VIP,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0203,VIP,Confira as novidades da semana! 🚀,0,0,0
+ENV0204,Recorrentes,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0205,Inativos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0206,VIP,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0207,VIP,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0208,Inativos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0209,VIP,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0210,VIP,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0211,Inativos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0212,Inativos,Confira as novidades da semana! 🚀,1,1,0
+ENV0213,Inativos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0214,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0215,Inativos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0216,Novos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0217,Novos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0218,Inativos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0219,Inativos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0220,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0221,Inativos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0222,Inativos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0223,VIP,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0224,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0225,Novos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0226,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0227,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0228,Novos,Confira as novidades da semana! 🚀,0,0,0
+ENV0229,Recorrentes,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0230,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0231,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0232,Inativos,Confira as novidades da semana! 🚀,1,1,0
+ENV0233,Inativos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0234,Novos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0235,VIP,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0236,Inativos,Confira as novidades da semana! 🚀,1,1,0
+ENV0237,Novos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0238,VIP,Confira as novidades da semana! 🚀,1,1,0
+ENV0239,Inativos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0240,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0241,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,1,1
+ENV0242,Recorrentes,Confira as novidades da semana! 🚀,1,0,0
+ENV0243,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0244,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0245,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0246,Recorrentes,Confira as novidades da semana! 🚀,0,0,0
+ENV0247,Novos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0248,Recorrentes,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0249,Recorrentes,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0250,Recorrentes,Confira as novidades da semana! 🚀,1,0,0
+ENV0251,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0252,Novos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0253,Recorrentes,Confira as novidades da semana! 🚀,1,1,0
+ENV0254,Novos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0255,VIP,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0256,Inativos,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0257,Recorrentes,Bem-vindo à nossa loja! 👋,1,1,1
+ENV0258,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0259,Inativos,Confira as novidades da semana! 🚀,0,0,0
+ENV0260,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0261,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0262,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0263,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0264,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0265,Recorrentes,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0266,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0267,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0268,Inativos,Confira as novidades da semana! 🚀,1,1,0
+ENV0269,Novos,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0270,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0271,Recorrentes,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0272,Recorrentes,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0273,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0274,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0275,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0276,Inativos,Confira as novidades da semana! 🚀,1,0,0
+ENV0277,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0278,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0279,Inativos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0280,Recorrentes,Confira as novidades da semana! 🚀,1,1,1
+ENV0281,Recorrentes,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0282,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0283,Novos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0284,VIP,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0285,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0286,VIP,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0287,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0288,Inativos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0289,Novos,Confira as novidades da semana! 🚀,0,0,0
+ENV0290,Inativos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0291,VIP,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0292,VIP,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0293,Recorrentes,Confira as novidades da semana! 🚀,0,0,0
+ENV0294,Novos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0295,VIP,Confira as novidades da semana! 🚀,1,0,0
+ENV0296,Inativos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0297,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0298,Novos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0299,Inativos,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0300,VIP,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0301,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,1
+ENV0302,Inativos,Confira as novidades da semana! 🚀,1,0,0
+ENV0303,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0304,Inativos,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0305,Inativos,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0306,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0307,Inativos,Confira as novidades da semana! 🚀,1,0,0
+ENV0308,Novos,Confira as novidades da semana! 🚀,1,0,0
+ENV0309,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0310,Novos,Confira as novidades da semana! 🚀,1,1,1
+ENV0311,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0312,VIP,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0313,VIP,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0314,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0315,Recorrentes,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0316,Inativos,Confira as novidades da semana! 🚀,1,1,0
+ENV0317,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0318,VIP,Confira as novidades da semana! 🚀,0,0,0
+ENV0319,VIP,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0320,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0321,Inativos,Confira as novidades da semana! 🚀,0,0,0
+ENV0322,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0323,Inativos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0324,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0325,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0326,Inativos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0327,Inativos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0328,Inativos,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0329,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0330,Novos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0331,Novos,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0332,Recorrentes,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0333,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0334,VIP,Confira as novidades da semana! 🚀,1,1,0
+ENV0335,VIP,Confira as novidades da semana! 🚀,1,1,1
+ENV0336,VIP,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0337,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0338,Inativos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0339,Novos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0340,VIP,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0341,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,1
+ENV0342,Novos,Confira as novidades da semana! 🚀,1,1,1
+ENV0343,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0344,Novos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0345,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0346,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0347,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0348,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0349,Novos,Confira as novidades da semana! 🚀,1,1,0
+ENV0350,Inativos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0351,Inativos,Confira as novidades da semana! 🚀,0,0,0
+ENV0352,Recorrentes,Confira as novidades da semana! 🚀,1,1,0
+ENV0353,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0354,VIP,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0355,VIP,Bem-vindo à nossa loja! 👋,1,1,1
+ENV0356,Inativos,Confira as novidades da semana! 🚀,0,0,0
+ENV0357,VIP,Confira as novidades da semana! 🚀,0,0,0
+ENV0358,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0359,Recorrentes,Confira as novidades da semana! 🚀,1,1,1
+ENV0360,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0361,Novos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0362,Inativos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0363,Novos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0364,Inativos,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0365,Recorrentes,Confira as novidades da semana! 🚀,1,1,1
+ENV0366,Novos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0367,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0368,Recorrentes,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0369,VIP,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0370,VIP,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0371,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0372,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0373,VIP,Confira as novidades da semana! 🚀,1,1,0
+ENV0374,Inativos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0375,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,1
+ENV0376,Novos,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0377,Recorrentes,Confira as novidades da semana! 🚀,0,0,0
+ENV0378,VIP,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0379,Recorrentes,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0380,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0381,VIP,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0382,Inativos,Confira as novidades da semana! 🚀,1,1,1
+ENV0383,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0384,Recorrentes,Confira as novidades da semana! 🚀,0,0,0
+ENV0385,Inativos,Oferta Exclusiva de Primavera 🌸,1,1,1
+ENV0386,Recorrentes,Confira as novidades da semana! 🚀,0,0,0
+ENV0387,Novos,Oferta Exclusiva de Primavera 🌸,1,1,1
+ENV0388,VIP,Confira as novidades da semana! 🚀,1,1,0
+ENV0389,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0390,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0391,Recorrentes,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0392,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0393,Novos,Confira as novidades da semana! 🚀,1,0,0
+ENV0394,Recorrentes,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0395,Novos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0396,Recorrentes,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0397,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0398,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0399,Recorrentes,Confira as novidades da semana! 🚀,1,1,0
+ENV0400,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0401,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0402,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0403,Inativos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0404,Recorrentes,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0405,Novos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0406,Recorrentes,Confira as novidades da semana! 🚀,1,1,0
+ENV0407,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0408,VIP,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0409,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,1
+ENV0410,VIP,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0411,Novos,Confira as novidades da semana! 🚀,1,0,0
+ENV0412,Recorrentes,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0413,Recorrentes,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0414,Inativos,Confira as novidades da semana! 🚀,1,0,0
+ENV0415,Inativos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0416,Novos,Confira as novidades da semana! 🚀,1,1,0
+ENV0417,Novos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0418,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0419,Inativos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0420,Recorrentes,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0421,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0422,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0423,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0424,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0425,VIP,Confira as novidades da semana! 🚀,1,0,0
+ENV0426,Inativos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0427,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0428,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0429,Novos,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0430,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0431,VIP,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0432,Recorrentes,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0433,Inativos,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0434,VIP,Confira as novidades da semana! 🚀,1,1,0
+ENV0435,VIP,Confira as novidades da semana! 🚀,0,0,0
+ENV0436,Inativos,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0437,VIP,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0438,Recorrentes,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0439,Inativos,Confira as novidades da semana! 🚀,0,0,0
+ENV0440,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0441,VIP,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0442,Recorrentes,Bem-vindo à nossa loja! 👋,1,1,1
+ENV0443,Novos,Confira as novidades da semana! 🚀,0,0,0
+ENV0444,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0445,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0446,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0447,Recorrentes,Confira as novidades da semana! 🚀,1,1,1
+ENV0448,Recorrentes,Confira as novidades da semana! 🚀,1,0,0
+ENV0449,Novos,Bem-vindo à nossa loja! 👋,1,1,1
+ENV0450,VIP,Confira as novidades da semana! 🚀,0,0,0
+ENV0451,Recorrentes,Confira as novidades da semana! 🚀,1,0,0
+ENV0452,Inativos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0453,Novos,Confira as novidades da semana! 🚀,0,0,0
+ENV0454,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0455,VIP,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0456,Novos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0457,VIP,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0458,Novos,Confira as novidades da semana! 🚀,1,0,0
+ENV0459,VIP,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0460,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0461,VIP,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0462,Inativos,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0463,Inativos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0464,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0465,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,1
+ENV0466,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0467,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0468,Recorrentes,Bem-vindo à nossa loja! 👋,1,1,0
+ENV0469,Novos,Confira as novidades da semana! 🚀,1,0,0
+ENV0470,Recorrentes,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0471,VIP,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0472,Recorrentes,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0473,VIP,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0474,Recorrentes,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0475,Inativos,Confira as novidades da semana! 🚀,1,1,1
+ENV0476,Recorrentes,Confira as novidades da semana! 🚀,1,0,0
+ENV0477,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0478,Inativos,Confira as novidades da semana! 🚀,0,0,0
+ENV0479,Recorrentes,Bem-vindo à nossa loja! 👋,1,0,0
+ENV0480,Inativos,Confira as novidades da semana! 🚀,1,1,0
+ENV0481,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0482,Inativos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0483,Novos,Bem-vindo à nossa loja! 👋,0,0,0
+ENV0484,Inativos,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0485,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0486,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",0,0,0
+ENV0487,VIP,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0488,Novos,Oferta Exclusiva de Primavera 🌸,1,1,1
+ENV0489,Recorrentes,Oferta Exclusiva de Primavera 🌸,1,0,0
+ENV0490,Recorrentes,Oferta Exclusiva de Primavera 🌸,0,0,0
+ENV0491,Novos,Oferta Exclusiva de Primavera 🌸,1,1,1
+ENV0492,Inativos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0493,Novos,"Sentimos sua falta, volte com 10% OFF 🎁",1,0,0
+ENV0494,VIP,Bem-vindo à nossa loja! 👋,1,1,1
+ENV0495,Novos,Bem-vindo à nossa loja! 👋,1,1,1
+ENV0496,Novos,Oferta Exclusiva de Primavera 🌸,1,1,0
+ENV0497,Inativos,Confira as novidades da semana! 🚀,0,0,0
+ENV0498,VIP,Confira as novidades da semana! 🚀,0,0,0
+ENV0499,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
+ENV0500,Recorrentes,"Sentimos sua falta, volte com 10% OFF 🎁",1,1,0
