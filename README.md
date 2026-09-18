@@ -31,15 +31,13 @@
   </a>
 </p>
 
-</p>
-
 <p align="center">
-  <a href="#-sobre-o-projeto">Sobre</a> •
-  <a href="#-solução--arquitetura">Solução</a> •
-  <a href="#-funcionalidades-chave">Funcionalidades</a> •
-  <a href="#%EF%B8%8F-tecnologias-utilizadas">Tecnologias</a> •
-  <a href="#-execução-local">Execução</a> •
-  <a href="#-autora">Autora</a>
+  <a href="#sobre-o-projeto">Sobre</a> •
+  <a href="#solucao-arquitetura">Solução</a> •
+  <a href="#funcionalidades-chave">Funcionalidades</a> •
+  <a href="#tecnologias-utilizadas">Tecnologias</a> •
+  <a href="#execucao-local">Execução</a> •
+  <a href="#autora">Autora</a>
 </p>
 
 ---
