@@ -204,8 +204,6 @@ Os cálculos devem respeitar as definições da base de dados e as regras de neg
 
 ## 🛠️ test
 
-## Data Analytics & IA
-
 | Tecnologia | Finalidade |
 | :--- | :--- |
 | **Python** | Análise e processamento de dados. |
