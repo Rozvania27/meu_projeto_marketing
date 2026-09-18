@@ -14,19 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
   <a href="https://ai.google.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Gemini-3.6-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">  </a>
-  <a href="https://streamlit.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/Google_Gemini-3.6-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
   </a>
 </p>
 
@@ -38,6 +27,7 @@
   <a href="#-execução-local">Execução</a> •
   <a href="#-autora">Autora</a>
 </p>
+
 ---
 
 ## 🔗 Demonstrações Rápidas
@@ -53,7 +43,7 @@
 
 O **Marketing Cloud Data & AI Analytics** é uma solução de inteligência de negócios desenvolvida para resolver a complexidade do acompanhamento de campanhas de marketing em grande escala.
 
-A plataforma automatiza a ingestão, tratamento de métricas e geração de relatórios usando o modelo de linguagem **Google Gemini 3.6-flash**, entregando análises prontas para apoio à decisão de equipes de MarTech e Growth.
+A plataforma automatiza a ingestão, tratamento de métricas e geração de relatórios usando o modelo de linguagem **Google Gemini 3.6**, entregando análises prontas para apoio à decisão de equipes de MarTech e Growth.
 
 ### 🌟 Diferenciais Técnicos & Boas Práticas:
 * **LLM Ops Integrado:** Integração com o SDK `google-genai`, suporte a fallback de erros e Engenharia de Prompts otimizada.
