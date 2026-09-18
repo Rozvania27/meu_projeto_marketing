@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marketing Cloud Data & IA | Static Mockup</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Chart.js para renderização dos gráficos -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar / Filtros -->
+        <aside class="sidebar">
+            <h2>🔍 Filtros de Segmento</h2>
+            <p>Selecione os públicos-alvo:</p>
+            <div class="checkbox-group">
+                <label><input type="checkbox" class="filter-check" value="B2B" checked> B2B Enterprise</label>
+                <label><input type="checkbox" class="filter-check" value="E-commerce" checked> E-commerce Retail</label>
+                <label><input type="checkbox" class="filter-check" value="SaaS" checked> SaaS Self-Service</label>
+            </div>
+            <div class="info-box">
+                💡 <strong>VERSÃO WEB MOCKUP</strong><br>
+                Esta é a interface estática do projeto. A versão funcional com processamento Pandas e IA Gemini está disponível na aplicação Streamlit.
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header>
+                <h1>📈 Marketing Cloud Data & IA</h1>
+                <p>Simulador de Portfólio de Ciência de Dados & Marketing Analytics (Mockup Frontend)</p>
+            </header>
+
+            <!-- Cards de KPIs -->
+            <section class="kpi-grid">
+                <div class="card">
+                    <h3>✈️ TOTAL DISPAROS</h3>
+                    <p class="kpi-value" id="kpi-total">1,000</p>
+                </div>
+                <div class="card">
+                    <h3>📬 TAXA ABERTURA</h3>
+                    <p class="kpi-value" id="kpi-abertura">24.5%</p>
+                </div>
+                <div class="card">
+                    <h3>🖱️ CTR (CLIQUE/ABERTURA)</h3>
+                    <p class="kpi-value" id="kpi-ctr">12.3%</p>
+                </div>
+                <div class="card">
+                    <h3>🛒 CONVERSÃO</h3>
+                    <p class="kpi-value" id="kpi-conversao">3.8%</p>
+                </div>
+            </section>
+
+            <!-- Gráficos -->
+            <section class="chart-container">
+                <h2>📊 Desempenho por Segmento (%)</h2>
+                <canvas id="marketingChart" height="100"></canvas>
+            </section>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
