@@ -38,7 +38,6 @@
   <a href="#-execução-local">Execução</a> •
   <a href="#-autora">Autora</a>
 </p>
-
 ---
 
 ## 🔗 Demonstrações Rápidas
