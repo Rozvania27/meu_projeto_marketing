@@ -31,6 +31,8 @@
   </a>
 </p>
 
+---
+
 <p align="center">
   <a href="#sobre-o-projeto">Sobre</a> •
   <a href="#solucao-arquitetura">Solução</a> •
