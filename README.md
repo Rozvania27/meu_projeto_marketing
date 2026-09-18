@@ -58,7 +58,6 @@
 | :--- | :--- | :--- |
 | 🐍 **Python / Streamlit** | Dashboard analítico com processamento de dados, KPIs e insights gerados via IA. | [Acessar Aplicação](https://meu-projeto-marketing-ai-analytics.streamlit.app/) • [Ver Código no GitHub](https://github.com/Rozvania27/meu_projeto_marketing/blob/main/app.py) |
 | 🌐 **HTML / Front-End** | Interface web responsiva para visualização de indicadores e gráficos interativos. | [Acessar Interface Web](https://Rozvania27.github.io/meu_projeto_marketing/versao_html/) • [Ver Código no GitHub](https://github.com/Rozvania27/meu_projeto_marketing/tree/main/versao_html/) |
-| 📁 **Repositório Principal** | Código-fonte completo do projeto, arquivos de dados e documentação técnica. | [Acessar Repositório](https://github.com/Rozvania27/meu_projeto_marketing) |[Acessar Interface Web](https://Rozvania27.github.io/meu_projeto_marketing/versao_html/) |
 
 
 > 🚧 Links de demonstração serão disponibilizados em breve.
