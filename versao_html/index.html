@@ -1,0 +1,316 @@
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Marketing Cloud Data & IA</title>
+
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Chart.js para renderização dos gráficos -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <!-- ================================
+             SIDEBAR / FILTROS
+        ================================= -->
+
+        <aside class="sidebar">
+
+            <h2>🔍 Filtros de Segmento</h2>
+
+            <p>
+                Selecione os públicos-alvo para recalcular os KPIs em tempo real:
+            </p>
+
+            <div class="checkbox-group">
+
+                <label>
+                    <input
+                        type="checkbox"
+                        class="filter-check"
+                        value="B2B"
+                        checked
+                    >
+                    <span>B2B Enterprise</span>
+                    <small>100</small>
+                </label>
+
+                <label>
+                    <input
+                        type="checkbox"
+                        class="filter-check"
+                        value="E-commerce"
+                        checked
+                    >
+                    <span>E-commerce Retail</span>
+                    <small>150</small>
+                </label>
+
+                <label>
+                    <input
+                        type="checkbox"
+                        class="filter-check"
+                        value="SaaS"
+                        checked
+                    >
+                    <span>SaaS Self-Service</span>
+                    <small>125</small>
+                </label>
+
+            </div>
+
+            <!-- Amostra de dados -->
+
+            <div class="data-sample">
+                <div class="sample-header">
+                    <span>Amostra de dados</span>
+                    <strong id="sample-count">375 disparos</strong>
+                </div>
+
+                <div class="progress-container">
+                    <div
+                        class="progress-bar opening"
+                        style="width: 75%;"
+                    ></div>
+                </div>
+            </div>
+
+            <!-- Dica de portfólio -->
+
+            <div class="info-box">
+
+                <strong>💡 DICA DE PORTFÓLIO</strong>
+
+                <br><br>
+
+                Este projeto demonstra como integrar pipelines de
+                <strong>Ciência de Dados (Pandas)</strong> com relatórios de
+                <strong>IA Generativa (Gemini API)</strong> em uma interface
+                interativa utilizando <strong>Streamlit</strong>.
+            </div>
+
+        </aside>
+
+
+        <!-- ================================
+             CONTEÚDO PRINCIPAL
+        ================================= -->
+
+        <main class="main-content">
+
+            <!-- Cabeçalho -->
+
+            <header>
+
+                <div class="header-brand">
+
+                    <div class="logo">
+                        📈
+                    </div>
+
+                    <div>
+                        <h1>Marketing Cloud Data & IA</h1>
+
+                        <p>
+                            Simulador de Portfólio de Ciência de Dados
+                        </p>
+                    </div>
+
+                </div>
+
+                <div class="gemini-status">
+                    🟢 Gemini 3.6 Flash Ativo
+                </div>
+
+            </header>
+
+
+            <!-- ================================
+                 CARDS DE KPIs
+            ================================= -->
+
+            <section class="kpi-grid">
+
+                <div class="card">
+
+                    <div class="card-header">
+                        <h3>✈️ TOTAL DISPAROS</h3>
+                        <span class="card-icon">✈️</span>
+                    </div>
+
+                    <p
+                        class="kpi-value"
+                        id="kpi-total"
+                    >
+                        500
+                    </p>
+
+                    <p class="kpi-description">
+                        E-mails encaminhados
+                    </p>
+
+                </div>
+
+
+                <div class="card">
+
+                    <div class="card-header">
+                        <h3>📬 TAXA ABERTURA</h3>
+                        <span class="card-icon">📬</span>
+                    </div>
+
+                    <p
+                        class="kpi-value"
+                        id="kpi-abertura"
+                    >
+                        53.9%
+                    </p>
+
+                    <p class="kpi-description">
+                        % sobre total de envios
+                    </p>
+
+                </div>
+
+
+                <div class="card">
+
+                    <div class="card-header">
+                        <h3>🖱️ CTR (CLIQUE/ABERTURA)</h3>
+                        <span class="card-icon">🖱️</span>
+                    </div>
+
+                    <p
+                        class="kpi-value"
+                        id="kpi-ctr"
+                    >
+                        27.2%
+                    </p>
+
+                    <p class="kpi-description">
+                        % cliques sobre aberturas
+                    </p>
+
+                </div>
+
+
+                <div class="card">
+
+                    <div class="card-header">
+                        <h3>🛒 CONVERSÃO</h3>
+                        <span class="card-icon">🛒</span>
+                    </div>
+
+                    <p
+                        class="kpi-value"
+                        id="kpi-conversao"
+                    >
+                        15.2%
+                    </p>
+
+                    <p class="kpi-description">
+                        % vendas sobre cliques
+                    </p>
+
+                </div>
+
+            </section>
+
+
+            <!-- ================================
+                 GRÁFICO DE DESEMPENHO
+            ================================= -->
+
+            <section class="chart-container">
+
+                <div class="chart-header">
+
+                    <div>
+                        <h2>📊 Desempenho por Segmento (%)</h2>
+
+                        <p>
+                            Comparativo das taxas de engajamento para os
+                            segmentos selecionados
+                        </p>
+                    </div>
+
+                    <div class="chart-legend">
+
+                        <span>
+                            <i class="legend-dot opening-dot"></i>
+                            Abertura
+                        </span>
+
+                        <span>
+                            <i class="legend-dot click-dot"></i>
+                            Clique (CTR)
+                        </span>
+
+                        <span>
+                            <i class="legend-dot conversion-dot"></i>
+                            Conversão
+                        </span>
+
+                    </div>
+
+                </div>
+
+                <div class="chart-wrapper">
+                    <canvas
+                        id="marketingChart"
+                        height="130"
+                    ></canvas>
+                </div>
+
+            </section>
+
+
+            <!-- ================================
+                 RELATÓRIO DE IA
+            ================================= -->
+
+            <section class="chart-container ai-section">
+
+                <div class="chart-header">
+
+                    <div>
+                        <h2>🤖 Relatório de Insights com IA Generativa</h2>
+
+                        <p>
+                            Utilize a IA para interpretar os resultados das
+                            campanhas e gerar recomendações estratégicas.
+                        </p>
+                    </div>
+
+                </div>
+
+                <div class="ai-message">
+                    <strong>💡 Análise inteligente</strong>
+
+                    <p>
+                        A integração com o Google Gemini poderá gerar
+                        recomendações com base nos indicadores selecionados.
+                    </p>
+                </div>
+
+            </section>
+
+        </main>
+
+    </div>
+
+
+    <!-- JavaScript principal do projeto -->
+
+    <script src="script.js"></script>
+
+</body>
+</html>
+```

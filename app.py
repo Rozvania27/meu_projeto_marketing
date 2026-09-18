@@ -4,12 +4,21 @@ import streamlit as st
 from google import genai
 from google.genai import types
 
-# 1. Configuração Inicial da Página
+# 1. Configuração Inicial da Página (DEVE SER O PRIMEIRO COMANDO ST)
 st.set_page_config(
     page_title='Marketing Cloud Data & IA',
     page_icon='📈',
     layout='wide'
 )
+
+# 2. Configuração do Cliente Gemini
+api_key = st.secrets.get("GEMINI_API_KEY") or os.getenv("GEMINI_API_KEY")
+
+if api_key:
+    client = genai.Client(api_key=api_key)
+else:
+    client = None
+    st.warning("⚠️ Chave GEMINI_API_KEY não configurada. A geração com IA estará indisponível.")
 
 # Estilo visual leve via CSS
 st.markdown("""
@@ -130,7 +139,7 @@ if st.button('✨ Gerar Análise Executiva'):
     elif df_filtrado.empty:
         st.warning('Selecione pelo menos um segmento na barra lateral.')
     else:
-        with st.spinner('Enviando métricas para o Gemini 2.5 Flash & compilando relatório...'):
+        with st.spinner('Enviando métricas para o Gemini 3.6 Flash & compilando relatório...'):
             try:
                 client = genai.Client(api_key=api_key_input)
 
