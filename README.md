@@ -45,7 +45,7 @@
   <a href="#-sobre-o-projeto">Sobre</a> •
   <a href="#-solução">Solução</a> •
   <a href="#-funcionalidades">Funcionalidades</a> •
-  <a href="#-Tecnologias">Tecnologias</a> •
+  <a href="#-data-Analytics-&-IA">Tecnologias</a> •
   <a href="#-execução-local">Execução</a> •
   <a href="#-autora">Autora</a>
 </p>
@@ -202,9 +202,7 @@ Os cálculos devem respeitar as definições da base de dados e as regras de neg
 
 ---
 
-## 🛠️ Tecnologias
-
-### Data Analytics & IA
+## 🛠️ Data Analytics & IA
 
 | Tecnologia | Finalidade |
 | :--- | :--- |
