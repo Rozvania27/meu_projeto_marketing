@@ -63,7 +63,7 @@
 
 ---
 
-<a id="#sobre"></a>
+<a id="sobre"></a>
 ## 🎯 Sobre o Projeto
 
 O **Marketing Cloud Data & AI Analytics** é um projeto de análise de dados aplicado ao contexto de Marketing Cloud, desenvolvido para explorar como dados de campanhas podem ser transformados em informações relevantes para o acompanhamento de performance e a tomada de decisão.
