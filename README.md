@@ -42,13 +42,14 @@
 </p>
 
 <p align="center">
-  <a href="#-sobre-o-projeto">Sobre</a> •
-  <a href="#-solução">Solução</a> •
-  <a href="#-funcionalidades">Funcionalidades</a> •
-  <a href="#-tecnologias">Tecnologias</a> •
-  <a href="#-execução-local">Execução</a> •
-  <a href="#-autora">Autora</a>
+  <a href="#sobre">Sobre</a> •
+  <a href="#solucao">Solução</a> •
+  <a href="#funcionalidades">Funcionalidades</a> •
+  <a href="#tecnologias">Tecnologias</a> •
+  <a href="#execucao">Execução</a> •
+  <a href="#autora">Autora</a>
 </p>
+
 
 ---
 
@@ -57,11 +58,8 @@
 | Aplicação | Descrição | Link de Acesso |
 | :--- | :--- | :--- |
 | 🐍 **Python / Streamlit** | Dashboard analítico com processamento de dados, KPIs e insights gerados via IA. | [Acessar Aplicação](https://meu-projeto-marketing-ai-analytics.streamlit.app/) • [Ver Código no GitHub](https://github.com/Rozvania27/meu_projeto_marketing/blob/main/app.py) |
-| 🌐 **HTML / Front-End** | Interface web responsiva para visualização de indicadores e gráficos interativos. | [Acessar Interface Web](https://Rozvania27.github.io/meu_projeto_marketing/versao_html/) • [Ver Código no GitHub](https://github.com/Rozvania27/meu_projeto_marketing/tree/main/html_versao) |
+| 🌐 **HTML / Front-End** | Interface web responsiva para visualização de indicadores e gráficos interativos. | [Acessar Interface Web](https://Rozvania27.github.io/meu_projeto_marketing/versao_html/) • [Ver Código no GitHub](https://github.com/Rozvania27/meu_projeto_marketing/tree/main/versao_html/) |
 | 📁 **Repositório Principal** | Código-fonte completo do projeto, arquivos de dados e documentação técnica. | [Acessar Repositório](https://github.com/Rozvania27/meu_projeto_marketing) |[Acessar Interface Web](https://Rozvania27.github.io/meu_projeto_marketing/versao_html/) |
-
-
-> 🚧 Links de demonstração serão disponibilizados em breve.
 
 ---
 
@@ -94,6 +92,8 @@ A proposta deste projeto é explorar uma solução que permita:
 > **Foco:** transformar dados de campanhas em insights que apoiem decisões orientadas por dados.
 
 ---
+
+<a id="solucao"></a>
 
 ## 🧩 Solução
 
@@ -148,6 +148,8 @@ A proposta deste projeto é explorar uma solução que permita:
 ```
 
 ---
+
+<a id="funcionalidades"></a>
 
 ## 🚀 Funcionalidades
 
@@ -205,6 +207,7 @@ Conceitos trabalhados:
 Os cálculos devem respeitar as definições da base de dados e as regras de negócio adotadas na aplicação.
 
 ---
+<a id="tecnologias"></a>
 
 ## 🛠️ Tecnologias
 
@@ -259,6 +262,7 @@ meu_projeto_marketing/
 | `script.js` | Lógica e interatividade do dashboard. |
 
 ---
+<a id="execucao"></a>
 
 ## 🚀 Execução Local
 
@@ -379,6 +383,7 @@ Este projeto permitiu aplicar conhecimentos em:
 - Desenvolvimento Front-End.
 - Documentação e organização de projetos no GitHub.
 
+<a id="autora"></a>
 
 ## 👩‍💻 Autora
 
