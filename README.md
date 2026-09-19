@@ -344,30 +344,46 @@ GEMINI_API_KEY=sua_chave_de_api
 
 ## 🤖 Uso Responsável de Inteligência Artificial
 
-A Inteligência Artificial Generativa foi utilizada como ferramenta de apoio ao desenvolvimento e à exploração de soluções analíticas.
+A Inteligência Artificial Generativa foi utilizada em diferentes etapas do projeto, tanto como **ferramenta de apoio ao desenvolvimento** quanto como **componente da solução analítica**.
 
-### Aplicações da IA
+### 🧠 Ferramentas de IA utilizadas
 
-- Apoio à estruturação de componentes Python/Streamlit.
-- Auxílio no desenvolvimento de HTML, CSS e JavaScript.
-- Integração com a API do Google Gemini.
-- Exploração de insights gerados a partir de dados de marketing.
-- Apoio à Engenharia de Prompts.
+#### ChatGPT
 
-### Human-in-the-loop
+Utilizado como ferramenta de apoio durante o desenvolvimento do projeto, contribuindo para:
 
-O projeto adota uma abordagem de validação humana, com revisão das implementações, cálculos e resultados analíticos.
+- Estruturação e organização do projeto.
+- Apoio na implementação e revisão de código Python, HTML, CSS e JavaScript.
+- Identificação e resolução de erros durante o desenvolvimento.
+- Apoio à documentação e organização do README.
+- Exploração de conceitos relacionados a Data Analytics, MarTech e Inteligência Artificial.
+- Revisão e aprimoramento de soluções técnicas.
+
+#### Google Gemini
+
+Utilizado como componente da própria solução por meio da API do Google Gemini, com aplicação em:
+
+- Geração de insights a partir dos dados de marketing.
+- Interpretação de indicadores e resultados de campanhas.
+- Apoio à análise orientada por contexto de negócio.
+- Exploração de Inteligência Artificial Generativa aplicada ao Marketing Analytics.
+- Aplicação de técnicas de Engenharia de Prompts.
+
+### 👩‍💻 Human-in-the-loop
+
+O projeto adota uma abordagem de **validação humana (Human-in-the-loop)**, mantendo a participação da autora na análise, revisão e tomada de decisões técnicas.
 
 O processo inclui:
 
-- Revisão da lógica do código.
-- Verificação dos cálculos de métricas.
-- Avaliação do tratamento de dados com Pandas.
-- Revisão das respostas geradas pela IA.
-- Identificação de possíveis alucinações.
-- Alinhamento com as regras de negócio.
+- Revisão da lógica e estrutura do código.
+- Verificação dos cálculos das métricas.
+- Avaliação do tratamento e transformação dos dados com Pandas.
+- Revisão e validação das respostas geradas pela IA.
+- Identificação de possíveis alucinações ou inconsistências.
+- Avaliação dos resultados de acordo com as regras de negócio.
+- Adaptação das sugestões geradas por IA aos requisitos do projeto.
 
-> A IA atua como suporte ao desenvolvimento e à análise. A validação humana é essencial para avaliar a qualidade e a confiabilidade dos resultados.
+> **Transparência:** as ferramentas de IA foram utilizadas como apoio ao desenvolvimento e à análise. A participação humana permaneceu essencial na implementação, validação dos resultados, revisão do código e tomada de decisões técnicas.
 
 ---
 
